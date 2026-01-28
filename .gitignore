@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/
+*.db
+*.sqlite
+desktop.ini
+.env
