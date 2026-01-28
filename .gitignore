@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 data/
+uploads/
+logs/
+backups/
 *.db
 *.sqlite
 desktop.ini
